@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54346380182",
+    "project_id": "instagram-clone-c410d",
+    "storage_bucket": "instagram-clone-c410d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54346380182:android:f0f64ddeacf26e6374e3b7",
+        "android_client_info": {
+          "package_name": "com.dalima.instagramclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3dGrU0-QAemK1aWGE-dUSNfcch1W4_oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
