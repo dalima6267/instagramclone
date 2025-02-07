@@ -20,7 +20,14 @@ An Instagram clone is a social media app that mimics Instagram’s core features
 - **Save & Share Posts** 📂🔗 – Users can bookmark posts or share them via links.
 - **Dark Mode Support** 🌙 – A UI theme toggle for light and dark mode.
 
-
+## ScreenShots
+![Image](https://github.com/user-attachments/assets/2541ef1a-4dbd-4e41-81d8-d634aa897954)
+![Image](https://github.com/user-attachments/assets/58fe2710-27a1-4b59-a42b-852b9cdd7d07)
+![Image](https://github.com/user-attachments/assets/f11129e6-c34f-47a4-b5d2-5fddd3631253)
+![Image](https://github.com/user-attachments/assets/c844486b-827e-4c77-95d3-d6ff7ea20eac)
+![Image](https://github.com/user-attachments/assets/1f486e06-0f9d-41b1-9c02-5e10908352eb)
+![Image](https://github.com/user-attachments/assets/a7efd3e6-960e-47c4-8848-809ddc6675a3)
+![Image](https://github.com/user-attachments/assets/d2d51400-2712-4a94-aedf-56f8e191a4b1)
 
 ## Tech Stack
 
